@@ -14,6 +14,14 @@ My current research interests lie in 3D computer vision, with a focus on dynamic
 
 ## 📄 Publications
 
+### [Arxiv 2026] PEAR: Pixel-aligned Expressive humAn mesh Recovery 
+**Jiahao Wu**, Yunfei Liu, Lijian Lin, Ye Zhu, Lei Zhu, Jingyi Li, Yu Li
+
+
+[📄 Paper (PDF)](https://www.arxiv.org/abs/2601.22693) [🌐 Project Page](https://wujh2001.github.io/PEAR/) [💻 Code](https://github.com/Pixel-Talk/PEAR)
+
+
+
 ### [ICCV 2025] LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling  
 **Jiahao Wu**, Rui Peng, Jianbo Jiao, Jiayu Yang, Luyang Tang, Kaiqiang Xiong, Jie Liang, Jinbo Yan, Runling Liu, Ronggang Wang
 
@@ -30,3 +38,22 @@ My current research interests lie in 3D computer vision, with a focus on dynamic
 Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, **Jiahao Wu**, Ronggang Wang
 
 [📄 Paper (PDF)](https://arxiv.org/pdf/2503.16979) [💻 Code](https://github.com/yjb6/IGS)
+
+
+### [NIPS 2025] SAP: Exact Sorting in Splatting via Screen-Aligned Primitives
+Zhanke Wang, Zhiyan Wang, Kaiqiang Xiong,  **Jiahao Wu**, Yang Deng, Ronggang Wang
+
+[📄 Paper (PDF)](https://openreview.net/pdf?id=mGjmPnzGQo) 
+
+
+### [ACMM 2025]  Excavating the Most Critical Gaussians: Sparse Selection and Structural Optimization for Efficient 3DGS Compression
+Yang Hu, Jingui Ma, Yucheng Yang, Jie Liang, Jinbo Yan, **Jiahao Wu**, Jiayu Yang, Yang Deng, Ronggang Wang
+
+[📄 Paper (PDF)](https://openreview.net/pdf?id=mGjmPnzGQo) 
+
+
+
+
+
+
+
