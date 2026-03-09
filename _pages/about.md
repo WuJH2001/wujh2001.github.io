@@ -14,12 +14,6 @@ My current research interests lie in 3D computer vision, with a focus on dynamic
 
 ## 📄 Publications
 
-### [Arxiv 2026] PEAR: Pixel-aligned Expressive humAn mesh Recovery 
-**Jiahao Wu**, Yunfei Liu, Lijian Lin, Ye Zhu, Lei Zhu, Jingyi Li, Yu Li
-
-
-[📄 Paper (PDF)](https://www.arxiv.org/abs/2601.22693) [🌐 Project Page](https://wujh2001.github.io/PEAR/) [💻 Code](https://github.com/Pixel-Talk/PEAR)
-
 
 
 ### [ICCV 2025] LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling  
