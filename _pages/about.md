@@ -14,6 +14,9 @@ My current research interests lie in 3D computer vision, with a focus on dynamic
 
 ## 📄 Publications
 
+### [SIGGRAPH 2026 (TOG)] ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation
+**Jiahao Wu**, Jie Liang, Die Hu, Kaiqiang Xiong, Xiang Li, Jiayu Yang, Xiaoyun Zheng, Chao Wang, Ronggang Wang
+
 
 
 ### [ICCV 2025] LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling  
