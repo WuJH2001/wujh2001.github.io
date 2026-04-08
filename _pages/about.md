@@ -17,12 +17,13 @@ My current research interests lie in 3D computer vision, with a focus on dynamic
 ### [SIGGRAPH(TOG) 2026] ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation
 **Jiahao Wu**, Jie Liang, Die Hu, Kaiqiang Xiong, Xiang Li, Jiayu Yang, Xiaoyun Zheng, Chao Wang, Ronggang Wang
 
+[🌐 Project Page](https://wujh2001.github.io/ATGS/)
 
 
 ### [ICCV 2025] LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling  
 **Jiahao Wu**, Rui Peng, Jianbo Jiao, Jiayu Yang, Luyang Tang, Kaiqiang Xiong, Jie Liang, Jinbo Yan, Runling Liu, Ronggang Wang
 
-[📄 Paper (PDF)]() [🌐 Project Page](https://wujh2001.github.io/LocalDyGS) [💻 Code](https://github.com/WuJH2001/LocalDyGS/tree/main)
+[📄 Paper (PDF)](https://arxiv.org/abs/2507.02363) [🌐 Project Page](https://wujh2001.github.io/LocalDyGS) [💻 Code](https://github.com/WuJH2001/LocalDyGS/tree/main)
 
 ###  [ICLR 2025]  Swift4D: Adaptive divide-and-conquer Gaussian Splatting for compact and efficient reconstruction of dynamic scene
 **Jiahao Wu**, Rui Peng , Zhiyan Wang, Lu Xiao, Luyang Tang, Kaiqiang Xiong, Ronggang Wang
