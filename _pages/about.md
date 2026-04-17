@@ -22,7 +22,7 @@ My current research interests lie in 3D computer vision, with a focus on dynamic
 ### [CVPR'2026] ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction
 Jie Liang', **Jiahao Wu'**, Chao Wang, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo Yan, Feng Gao, Ronggang Wang
 
-[🌐 Project Page](https://liangjie1999.github.io/ClipGStreamWeb/)
+[📄 Paper (PDF)](https://arxiv.org/pdf/2604.13746)  [🌐 Project Page](https://liangjie1999.github.io/ClipGStreamWeb/)
 
 ### [ICCV'2025] LocalDyGS: Multi-view Global Dynamic Scene Modeling via Adaptive Local Implicit Feature Decoupling  
 **Jiahao Wu**, Rui Peng, Jianbo Jiao, Jiayu Yang, Luyang Tang, Kaiqiang Xiong, Jie Liang, Jinbo Yan, Runling Liu, Ronggang Wang
