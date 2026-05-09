@@ -396,14 +396,14 @@ My research interests include **Embodied AI**, **3D/4D Reconstruction**, **Digit
 
 Feel free to reach out if you are interested in collaboration or potential opportunities.
 
-News
+Main News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Two papers accepted to SIGGRAPH 2026.</li>
+    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Two papers accepted to SIGGRAPH 2026 (1 conferecne, 1 journal).</li>
     <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 Two paper accepted to CVPR 2026.</li>
     <li><span class="news-date"><em>2025.07</em></span> 🎉🎉 One paper accepted to ICCV 2025.</li>
-    <li><span class="news-date"><em>2025.07</em></span> 🎉🎉 One paper accepted to ICLR 2025.</li>
+    <li><span class="news-date"><em>2025.01</em></span> 🎉🎉 One paper accepted to ICLR 2025.</li>
   </ul>
 </div>
 
@@ -488,7 +488,7 @@ Publications
       </i><br> 
       A streaming dynamic reconstruction strategy based on fragment-wise training.
       <br> 
-      <b><i style="color:#83a1c7;">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026 &nbsp;
+      <b><i style="color:#83a1c7;">Conference on Computer Vision and Pattern Recognition (CVPR), 2026 &nbsp;
       </i></b> 
       <a href="https://arxiv.org/abs/2604.13746"><em>[arXiv]</em></a> 
       <a href="https://liangjie1999.github.io/ClipGStreamWeb/"><em>[Project page]</em></a> 
@@ -510,7 +510,7 @@ Publications
       </i><br> 
       Extend dynamic reconstruction from small-scale motions to complex motions in large-scale scenes.
       <br> 
-      <b><i style="color:#83a1c7;">IEEE International Conference on Computer Vision (ICCV), 2025 &nbsp;
+      <b><i style="color:#83a1c7;">International Conference on Computer Vision (ICCV), 2025 &nbsp;
       </i></b> 
       <a href="https://arxiv.org/pdf/2507.02363"><em>[arXiv]</em></a> 
       <a href="https://github.com/WuJH2001/LocalDyGS"><em>[code]</em></a> 
@@ -533,7 +533,7 @@ Publications
       </i><br> 
       Achieve fast dynamic reconstruction through motion–static decoupling.
       <br> 
-      <b><i style="color:#83a1c7;">The International Conference on Learning Representations (ICLR), 2025 &nbsp;
+      <b><i style="color:#83a1c7;">International Conference on Learning Representations (ICLR), 2025 &nbsp;
       </i></b> 
       <a href="https://arxiv.org/abs/2503.12307"><em>[arXiv]</em></a> 
       <a href="https://github.com/WuJH2001/Swift4d"><em>[code]</em></a> 
@@ -544,13 +544,6 @@ Publications
 </div>
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
-    <li>
-      <span class="pub-list-badge">Neurips 2025</span>
-      <span class="pub-list-title">SAP: Exact Sorting in Splatting via Screen-Aligned Primitives</span><br>
-      <span class="pub-list-authors">
-        Zhanke Wang, Zhiyan Wang, Kaiqiang Xiong, Jiahao Wu, Yang Deng, Ronggang Wang
-      </span>
-    </li>
     <li>
       <span class="pub-list-badge">T-CSVT 2026</span>
       <span class="pub-list-title">i3DV: Intelligent 3D Volumetric Video Coding Standard and Platform</span><br>
@@ -565,7 +558,22 @@ Publications
         Kaiqiang Xiong, Rui Peng, Jiahao Wu, Zhanke Wang, Jie Liang, Xiaoyun Zheng, Feng Gao, Ronggang Wang
       </span>
     </li>
+    </li>
         <li>
+      <span class="pub-list-badge">AAAI 2025</span>
+      <span class="pub-list-title">Pano-GS: Perception-Aware Gaussian Optimization with Gradient Consistency and Multi-Criteria Densification for High-Quality Rendering</span><br>
+      <span class="pub-list-authors">
+        Yang Deng, Zhanke Wang, Jiahao Wu, Jie Liang, Jingui Ma, Yang Hu, Ronggang Wang
+      </span>
+    </li>
+    <li>
+      <span class="pub-list-badge">Neurips 2025</span>
+      <span class="pub-list-title">SAP: Exact Sorting in Splatting via Screen-Aligned Primitives</span><br>
+      <span class="pub-list-authors">
+        Zhanke Wang, Zhiyan Wang, Kaiqiang Xiong, Jiahao Wu, Yang Deng, Ronggang Wang
+      </span>
+    </li>
+    <li>
       <span class="pub-list-badge">ACMM 2025</span>
       <span class="pub-list-title">Excavating the Most Critical Gaussians: Sparse Selection and Structural Optimization for Efficient 3DGS Compression</span><br>
       <span class="pub-list-authors">
@@ -578,14 +586,6 @@ Publications
       <span class="pub-list-authors">
         Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, Jiahao Wu, R Wang
       </span>
-    </li>
-        <li>
-      <span class="pub-list-badge">AAAI 2025</span>
-      <span class="pub-list-title">Pano-GS: Perception-Aware Gaussian Optimization with Gradient Consistency and Multi-Criteria Densification for High-Quality Rendering</span><br>
-      <span class="pub-list-authors">
-        Yang Deng, Zhanke Wang, Jiahao Wu, Jie Liang, Jingui Ma, Yang Hu, Ronggang Wang
-      </span>
-    </li>
   </ul>
 </div>
 
