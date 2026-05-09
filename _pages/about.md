@@ -585,7 +585,7 @@ Publications
       <span class="pub-list-authors">
         Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, Jiahao Wu, R Wang
       </span>
-    <li>
+    </li>
   </ul>
 </div>
 
