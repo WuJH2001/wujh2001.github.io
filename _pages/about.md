@@ -407,49 +407,28 @@ News
   </ul>
 </div>
 
-  <!-- Experience
+Experience
 --------------
 
 <div class="experience-container">
 <div class="experience-card">
-      <img src="images/Alibaba.png" alt="Alibaba logo" class="experience-logo">
+      <img src="images/pku.svg" alt="pku logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Alibaba Group</strong><br>
-          <em>2026.05 - Present</em><br>
-          MLLM Engineer Intern advised by <a href="https://liamding.cc/"><em>Liang Ding</em></a> and <a href="https://ethanscuter.github.io/"><em>Xintong Wang</em></a>
+          <strong>Peking University</strong><br>
+          <em>2023.09 - Present</em><br>
+          3D/4D reconstruction advised by Prof. Ronggang Wang
       </div>
   </div> 
 
 
   
   <div class="experience-card">
-      <img src="images/TeleAI.png" alt="TeleAI logo" class="experience-logo">
+      <img src="images/hit.svg" alt="hit logo" class="experience-logo">
       <div class="experience-info">
-          <strong>Institute of Artificial Intelligence of China Telecom</strong><br>
-          <em>2026.01 - 2026.03</em><br>
-          Start My Journey in LLM
+          <strong>Harbin Institute of Technology</strong><br>
+          <em>2019.9 - 2023.7</em><br>
       </div>
   </div>
-
-  <div class="experience-card">
-      <img src="images/NUS.png" alt="NUS logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>National University of Singapore</strong><br>
-          <em>2024.10 - 2025.10</em><br>
-          Research Assistant at <a href="https://ai.comp.nus.edu.sg/"><em>HPC-AI Lab</em></a> advised by <a href="https://www.comp.nus.edu.sg/~youy/"><em>Yang You</em></a>, <a href="https://wangbo-zhao.github.io/"><em>Wangbo Zhao</em></a> and <a href="https://lancezpf.github.io/"><em>Pengfei Zhou</em></a>
-      </div>
-  </div>
-
-
-  <div class="experience-card">
-      <img src="images/XDU.png" alt="Xi'dian logo" class="experience-logo">
-      <div class="experience-info">
-          <strong>Xidian University</strong><br>
-          <em>2023.09 - Present</em><br>
-          Rank 5/99, B.E at <a href="https://ste.xidian.edu.cn/"><em>School of Telecommunication Engineering</em></a> & Research Assistant advised by <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao"><em>Xiumei Wang</em></a>
-      </div>
-  </div>
-  -->
   
 </div>
 
@@ -462,33 +441,32 @@ Publications
 (* equal contribution · &dagger; corresponding author · &Dagger; project leader)
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
+
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/GroupToM.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/atgs.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
     </div> 
     <div>
-      <strong>GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</strong><br>
+      <strong>ATGS: Anchored Temporal Gaussian Splatting for Long Volumetric Video Representation</strong><br>
       <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jierui Li,
-        Yueling Hou, 
-        Zihan Mei, 
-        Zhigang Tian, 
-        Weicheng Jiao, 
-        Can Zhang, 
-        Xinyan Wan, 
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou&dagger;</a>,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>
+        <a href="https://wujh2001.github.io" target="_blank"><strong>Jiahao Wu*</strong></a>, 
+        Jie Liang*, 
+        Die Hu, 
+        Jiayu Yang, 
+        Kaiqiang Xiong, 
+        Xiaoyun Zheng, 
+        Xiang Li, 
+        Chao Wang ✉, 
+        Ronggang Wang ✉
       </i><br> 
-      We propose GroupToM-Bench and show that current models fail at nonlinear group reasoning despite strong individual-level ToM, exposing a clear group cognitive gap. 
+      Revealing the mechanisms of long-sequence, complex volumetric video reconstruction.
       <br> 
-      <b><i style="color:#83a1c7;">ACL 2026 Oral &nbsp;
+      <b><i style="color:#83a1c7;">ACM TRANSACTIONS ON GRAPHICS [SIGGRAPH'2026] &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+      <a href=""><em>[arXiv](Not available)</em></a> 
+      <a href="https://github.com/WuJH2001/ATGS"><em>[code]</em></a> 
+      <a href="https://wujh2001.github.io/ATGS/"><em>[Project page]</em></a> 
     </div>
   </div> 
 </div>
@@ -497,22 +475,21 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/MagicBench.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/clipgstream.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
     </div> 
     <div>
-      <strong>MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs</strong><br>
+      <strong>ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction</strong><br>
       <i style="font-size: 13px;">
-        Tang Da Huang,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang&Dagger;</strong></a>, 
-        Wen Qi Xu,
-        Xianpeng Guo&dagger;
+      Jie Liang*, 
+      Jiahao Wu*, Chao Wang, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo
+      Yan, FengGao, Ronggang Wang
       </i><br> 
-      The authors introduce MagicBench, a video dataset of magic tricks, to test if Multimodal LLMs actually rely on visual physics or if they are overly dependent on language narratives (which, in magic tricks, are deliberately deceptive).
+      A streaming dynamic reconstruction strategy based on fragment-wise training.
       <br> 
-      <b><i style="color:#83a1c7;">ACL 2026 &nbsp;
+      <b><i style="color:#83a1c7;">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2026 &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+      <a href="https://arxiv.org/abs/2604.13746"><em>[arXiv]</em></a> 
+      <a href="https://liangjie1999.github.io/ClipGStreamWeb/"><em>[Project page]</em></a> 
     </div>
   </div> 
 </div>
@@ -521,27 +498,21 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/RDS.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/localdygs.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
     </div> 
     <div>
-      <strong>Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</strong><br>
+      <strong>LocalDyGS: Multi-view Global Dynamic Scene Modeling through Adaptive Local Feature Decoupling.</strong><br>
       <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, 
-        Xinyan Wan, 
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>, 
-        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>, 
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;,
-        Yan Song,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>, 
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>
+        <a href="https://wujh2001.github.io" target="_blank"><strong>Jiahao Wu</strong></a>, 
+        Rui Peng, Jianbo Jiao, Jiayu Yang, Luyang Tang, Kaiqiang Xiong, Jie Liang, Jinbo Yan, Runling Liu, Ronggang Wang
       </i><br> 
-      Proposed a Recurrent Dynamic Submodel for efficient Video Object Segmentation and Tracking. By integrating temporal-prior-guided global dynamic routing and Importance-aware LoRA, it achieves an optimal trade-off between performance and speed using minimal trainable parameters and training data.
+      Extend dynamic reconstruction from small-scale motions to complex motions in large-scale scenes.
       <br> 
-      <b><i style="color:#83a1c7;">CVPR 2026 &nbsp;
+      <b><i style="color:#83a1c7;">IEEE International Conference on Computer Vision (ICCV), 2025 &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+      <a href="https://arxiv.org/pdf/2507.02363"><em>[arXiv]</em></a> 
+      <a href="https://github.com/WuJH2001/LocalDyGS"><em>[code]</em></a> 
+      <a href="https://wujh2001.github.io/LocalDyGS/"><em>[Project page]</em></a> 
     </div>
   </div> 
 </div>
@@ -550,127 +521,72 @@ Publications
 <div class="publication-card" data-category="all"> 
   <div style="display: flex; align-items: center;">
     <div class="pub-media-rotator" data-interval="4000" style="position: relative; width: 320px; height: 180px; margin-right: 20px; border-radius: 8px; overflow: hidden; flex: 0 0 auto;"> 
-      <img src="images/var-scaling.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
+      <img src="images/swift4d.png" alt="wog" style="width: 320px; height: 180px; object-fit: contain; display: block; margin: 0 auto;"> 
     </div> 
     <div>
-      <strong>Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</strong><br>
+      <strong>Swift4D: Adaptive Divide-and-Conquer Gaussian Splatting for Compact and Efficient Reconstruction of Dynamic Scenes.</strong><br>
       <i style="font-size: 13px;">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Xinyan Wan,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>
+      <a href="https://wujh2001.github.io" target="_blank"><strong>Jiahao Wu*</strong></a>, 
+      Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Kaiqiang Xiong, Ronggang Wang
       </i><br> 
-      Explored inference-time scaling in discrete spaces by mapping them to continuous spaces to obtain density distributions, thereby optimizing the sampling of early coarse-scale features.
+      Achieve fast dynamic reconstruction through motion–static decoupling.
       <br> 
-      <b><i style="color:#83a1c7;">PRCV 2025 &nbsp;
+      <b><i style="color:#83a1c7;">The International Conference on Learning Representations (ICLR), 2025 &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
-      <a href=""><em>[code]</em></a> 
+      <a href="https://arxiv.org/abs/2503.12307"><em>[arXiv]</em></a> 
+      <a href="https://github.com/WuJH2001/Swift4d"><em>[code]</em></a> 
     </div>
   </div> 
 </div>
-
 
 </div>
 <div id="full-publications" class="publication-view" data-publication-view="list" hidden>
   <ul class="full-publication-list">
     <li>
-      <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">GroupToM-Bench: Benchmarking Group Theory of Mind and Nonlinear Social Emergence in MLLMs</span><br>
+      <span class="pub-list-badge">Neurips 2025</span>
+      <span class="pub-list-title">SAP: Exact Sorting in Splatting via Screen-Aligned Primitives</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Jierui Li, Yueling Hou, Zihan Mei, Zhigang Tian, Weicheng Jiao, Can Zhang, Xinyan Wan,
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>,
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou&dagger;</a>,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
+        Zhanke Wang, Zhiyan Wang, Kaiqiang Xiong, Jiahao Wu, Yang Deng, Ronggang Wang
       </span>
-      <span class="pub-list-note">Oral.</span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">ACL 2026</span>
-      <span class="pub-list-title">MagicBench: Diagnosing Visual Agency Loss and Semantic Dependency in Multimodal LLMs</span><br>
+      <span class="pub-list-badge">T-CSVT 2026</span>
+      <span class="pub-list-title">i3DV: Intelligent 3D Volumetric Video Coding Standard and Platform</span><br>
       <span class="pub-list-authors">
-        Tang Da Huang,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang&Dagger;</strong></a>,
-        Wen Qi Xu, Xianpeng Guo&dagger;.
+          Jiayu Yang, Luyang Tang, Jiahao Wu, Jie Liang, Feng Gao, Ronggang Wang
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">CVPR 2026</span>
-      <span class="pub-list-title">Efficient Video Object Segmentation and Tracking with Recurrent Dynamic Submodel</span><br>
+      <span class="pub-list-title">Intrinsic Geometry-Appearance Consistency Optimization for Sparse-View Gaussian Splatting</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
-        <a href="https://jerryliang24.github.io/" target="_blank">Zhiyuan Liang</a>, Xinyan Wan,
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>,
-        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>&dagger;, Yan Song,
-        <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>.
+        Kaiqiang Xiong, Rui Peng, Jiahao Wu, Zhanke Wang, Jie Liang, Xiaoyun Zheng, Feng Gao, Ronggang Wang
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
         <li>
-      <span class="pub-list-badge">AAAI 2026</span>
-      <span class="pub-list-title">MDK12-Bench: a multi-discipline benchmark for evaluating reasoning in multimodal large language models</span><br>
+      <span class="pub-list-badge">ACMM 2025</span>
+      <span class="pub-list-title">Excavating the Most Critical Gaussians: Sparse Selection and Structural Optimization for Efficient 3DGS Compression</span><br>
       <span class="pub-list-authors">
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou*</a>,
-          Xiaopeng Peng*,
-           Fanrui Zhang*, 
-          <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
-          Jiaxin Ai, Yansheng Qiu,
-          <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>,
-            Jiajun Song, Chuanhao Li, 
-            <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>,
-            Zhen Li, Haoquan Zhang, Zizhen Li, Xiaofeng Mao, Yukang Feng, Jianwen Sun, 
-          <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
-          Xiaojun Chang, Wenqi Shao, 
-          <a href="https://www.comp.nus.edu.sg/~youy/" target="_blank">Yang You</a>,
-          <a href="https://scholar.google.com/citations?hl=zh-CN&user=4OqZBmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Kaipeng Zhang&dagger;</a>.
+        Yang Hu, Jingui Ma, Yucheng Yang, Jie Liang, Jinbo Yan, Jiahao Wu, Jiayu Yang, Yang Deng, Ronggang Wang
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
-      <span class="pub-list-badge">PRCV 2025</span>
-      <span class="pub-list-title">Inference-Time Scaling for Visual AutoRegressive modeling by Searching Representative Samples</span><br>
+      <span class="pub-list-badge">CVPR 2025</span>
+      <span class="pub-list-title">Instant gaussian stream: Fast and generalizable streaming of dynamic scene reconstruction via gaussian splatting</span><br>
       <span class="pub-list-authors">
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, Xinyan Wan, Siyu Li,
-        <a href="https://scholar.google.com/citations?user=k33uf2RE8nsC&hl=zh-CN&oi=ao" target="_blank">Xiumei Wang&dagger;</a>.
+        Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, Jiahao Wu, R Wang
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
         <li>
-      <span class="pub-list-badge">ICCV 2025</span>
-      <span class="pub-list-title">EA-ViT: Efficient Adaptation for Elastic Vision Transformer</span><br>
+      <span class="pub-list-badge">AAAI 2025</span>
+      <span class="pub-list-title">Pano-GS: Perception-Aware Gaussian Optimization with Gradient Consistency and Multi-Criteria Densification for High-Quality Rendering</span><br>
       <span class="pub-list-authors">
-        <a href="https://scholar.google.com.hk/citations?user=W9HbDoYAAAAJ&hl=en" target="_blank">Chen Zhu</a>,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao&dagger;</a>,
-        Huiwen Zhang,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=bGKF2tUAAAAJ" target="_blank">Yuhao Zhou</a>,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Shuo Wang,
-        Zhihang Yuan,
-        Yuzhang Shang,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=7oRD67kAAAAJ" target="_blank">Xiaojiang Peng</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=j2ANma0AAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Dawei Yang&dagger;</a>.
-      </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
-    </li>
-        <li>
-      <span class="pub-list-badge">Preprint 2025</span>
-      <span class="pub-list-title">Pebench: A fictitious dataset to benchmark machine unlearning for multimodal large language models</span><br>
-      <span class="pub-list-authors">
-        <a href="https://scholar.google.com.hk/citations?user=qNWDwOcAAAAJ&hl=en" target="_blank">Zhaopan Xu</a>,
-        <a href="https://lancezpf.github.io/" target="_blank">Pengfei Zhou</a>,
-        <a href="https://wd7ang.github.io" target="_blank"><strong>Weidong Tang</strong></a>, 
-        Jiaxin Ai,
-        <a href="https://wangbo-zhao.github.io/" target="_blank">Wangbo Zhao</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=i2II0XIAAAAJ" target="_blank">Kai Wang</a>,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=7oRD67kAAAAJ" target="_blank">Xiaojiang Peng</a>,
-        Wenqi Shao,
-        Hongxun Yao,
-        <a href="https://scholar.google.com/citations?hl=zh-CN&user=4OqZBmYAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">Kaipeng Zhang&dagger;</a>.
+        Yang Deng, Zhanke Wang, Jiahao Wu, Jie Liang, Jingui Ma, Yang Hu, Ronggang Wang
       </span>
       <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
