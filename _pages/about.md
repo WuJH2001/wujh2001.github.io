@@ -412,11 +412,11 @@ Experience
 
 <div class="experience-container">
 <div class="experience-card">
-      <img src="images/pku.svg" alt="pku logo" class="experience-logo">
+      <img src="images/pku.png" alt="pku logo" class="experience-logo">
       <div class="experience-info">
           <strong>Peking University</strong><br>
           <em>2023.09 - Present</em><br>
-          3D/4D reconstruction advised by Prof. Ronggang Wang
+          Ph.D. Student, advised by Prof. Ronggang Wang
       </div>
   </div> 
 
@@ -427,6 +427,7 @@ Experience
       <div class="experience-info">
           <strong>Harbin Institute of Technology</strong><br>
           <em>2019.9 - 2023.7</em><br>
+          B.Eng. in Computer Science
       </div>
   </div>
   
@@ -438,7 +439,7 @@ Publications
 <button class="pub-button active" onclick="filterPublications(event, 'all')">Core Publications</button>
 <button class="pub-button" onclick="filterPublications(event, 'list')">Full Publications List</button>
 
-(* equal contribution · &dagger; corresponding author · &Dagger; project leader)
+(* equal contribution · ✉ corresponding author)
 
 <div id="core-publications" class="publication-view" data-publication-view="core">
 
@@ -464,7 +465,7 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">ACM TRANSACTIONS ON GRAPHICS [SIGGRAPH'2026] &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv](Not available)</em></a> 
+      <a href=""><em>[arXiv]</em></a> 
       <a href="https://github.com/WuJH2001/ATGS"><em>[code]</em></a> 
       <a href="https://wujh2001.github.io/ATGS/"><em>[Project page]</em></a> 
     </div>
@@ -481,7 +482,8 @@ Publications
       <strong>ClipGStream: Clip-Stream Gaussian Splatting for Any Length and Any Motion Multi-View Dynamic Scene Reconstruction</strong><br>
       <i style="font-size: 13px;">
       Jie Liang*, 
-      Jiahao Wu*, Chao Wang, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo
+       <a href="https://wujh2001.github.io" target="_blank"><strong>Jiahao Wu*</strong></a>, 
+      Chao Wang, Jiayu Yang, Xiaoyun Zheng, Kaiqiang Xiong, Zhanke Wang, Jinbo
       Yan, FengGao, Ronggang Wang
       </i><br> 
       A streaming dynamic reconstruction strategy based on fragment-wise training.
@@ -526,7 +528,7 @@ Publications
     <div>
       <strong>Swift4D: Adaptive Divide-and-Conquer Gaussian Splatting for Compact and Efficient Reconstruction of Dynamic Scenes.</strong><br>
       <i style="font-size: 13px;">
-      <a href="https://wujh2001.github.io" target="_blank"><strong>Jiahao Wu*</strong></a>, 
+      <a href="https://wujh2001.github.io" target="_blank"><strong>Jiahao Wu</strong></a>, 
       Rui Peng, Zhiyan Wang, Lu Xiao, Luyang Tang, Kaiqiang Xiong, Ronggang Wang
       </i><br> 
       Achieve fast dynamic reconstruction through motion–static decoupling.
@@ -548,7 +550,6 @@ Publications
       <span class="pub-list-authors">
         Zhanke Wang, Zhiyan Wang, Kaiqiang Xiong, Jiahao Wu, Yang Deng, Ronggang Wang
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">T-CSVT 2026</span>
@@ -556,7 +557,6 @@ Publications
       <span class="pub-list-authors">
           Jiayu Yang, Luyang Tang, Jiahao Wu, Jie Liang, Feng Gao, Ronggang Wang
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">CVPR 2026</span>
@@ -564,7 +564,6 @@ Publications
       <span class="pub-list-authors">
         Kaiqiang Xiong, Rui Peng, Jiahao Wu, Zhanke Wang, Jie Liang, Xiaoyun Zheng, Feng Gao, Ronggang Wang
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
         <li>
       <span class="pub-list-badge">ACMM 2025</span>
@@ -572,7 +571,6 @@ Publications
       <span class="pub-list-authors">
         Yang Hu, Jingui Ma, Yucheng Yang, Jie Liang, Jinbo Yan, Jiahao Wu, Jiayu Yang, Yang Deng, Ronggang Wang
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
     <li>
       <span class="pub-list-badge">CVPR 2025</span>
@@ -580,7 +578,6 @@ Publications
       <span class="pub-list-authors">
         Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, Jiahao Wu, R Wang
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
         <li>
       <span class="pub-list-badge">AAAI 2025</span>
@@ -588,7 +585,6 @@ Publications
       <span class="pub-list-authors">
         Yang Deng, Zhanke Wang, Jiahao Wu, Jie Liang, Jingui Ma, Yang Hu, Ronggang Wang
       </span>
-      <span class="pub-list-links"><a href="">[arXiv]</a><a href="">[code]</a></span>
     </li>
   </ul>
 </div>
