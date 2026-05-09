@@ -558,7 +558,7 @@ Publications
         Kaiqiang Xiong, Rui Peng, Jiahao Wu, Zhanke Wang, Jie Liang, Xiaoyun Zheng, Feng Gao, Ronggang Wang
       </span>
     </li>
-    </li>
+    <li>
       <span class="pub-list-badge">AAAI 2025</span>
       <span class="pub-list-title">Pano-GS: Perception-Aware Gaussian Optimization with Gradient Consistency and Multi-Criteria Densification for High-Quality Rendering</span><br>
       <span class="pub-list-authors">
