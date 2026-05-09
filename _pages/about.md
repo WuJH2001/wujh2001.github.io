@@ -559,7 +559,6 @@ Publications
       </span>
     </li>
     </li>
-        <li>
       <span class="pub-list-badge">AAAI 2025</span>
       <span class="pub-list-title">Pano-GS: Perception-Aware Gaussian Optimization with Gradient Consistency and Multi-Criteria Densification for High-Quality Rendering</span><br>
       <span class="pub-list-authors">
@@ -586,15 +585,12 @@ Publications
       <span class="pub-list-authors">
         Jinbo Yan, Rui Peng, Zhiyan Wang, Luyang Tang, Jiayu Yang, Jie Liang, Jiahao Wu, R Wang
       </span>
+    <li>
   </ul>
 </div>
 
 <script src="assets/js/show_publications.js"></script>
 <script src="assets/js/pub_media_rotator.js"></script>
-
-
-
-
 
 
 Services
