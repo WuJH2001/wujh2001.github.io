@@ -465,7 +465,7 @@ Publications
       <br> 
       <b><i style="color:#83a1c7;">ACM TRANSACTIONS ON GRAPHICS [SIGGRAPH'2026] &nbsp;
       </i></b> 
-      <a href=""><em>[arXiv]</em></a> 
+      <a href="https://dl.acm.org/doi/epdf/10.1145/3811306"><em>[Paper]</em></a> 
       <a href="https://github.com/WuJH2001/ATGS"><em>[code]</em></a> 
       <a href="https://wujh2001.github.io/ATGS/"><em>[Project page]</em></a> 
     </div>
