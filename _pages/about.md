@@ -400,7 +400,7 @@ Main News
 ---------------
 <div class="news-box">
   <ul class="news-list">
-    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Two papers accepted to SIGGRAPH 2026 (1 conferecne, 1 journal).</li>
+    <li><span class="news-date"><em>2026.04</em></span> 🎉🎉 Papers accepted to SIGGRAPH 2026 (1 conferecne, 1 journal).</li>
     <li><span class="news-date"><em>2026.02</em></span> 🎉🎉 Two paper accepted to CVPR 2026.</li>
     <li><span class="news-date"><em>2025.07</em></span> 🎉🎉 One paper accepted to ICCV 2025.</li>
     <li><span class="news-date"><em>2025.01</em></span> 🎉🎉 One paper accepted to ICLR 2025.</li>
